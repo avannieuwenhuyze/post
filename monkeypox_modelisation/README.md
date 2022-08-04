@@ -39,7 +39,7 @@ The objectives are as follows:
 
 **The information in this notebook cannot be used for real-life simulations.**
 
-# Content
+# Content of the notebook
 ## Abstract
 ## Datas and python libraries
 ### Libraries
