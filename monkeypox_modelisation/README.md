@@ -1,6 +1,6 @@
-#MONKEYPOX MODELING
+# MONKEYPOX MODELING
 
-#Abstract
+# Abstract
 
 Monkeypox is a disease that has been on the rise again across several continents in recent months.(Aout 2022)
 
